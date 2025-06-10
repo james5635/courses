@@ -8,9 +8,11 @@ dependencies = [
     "catppuccin-jupyterlab>=0.2.4",
     "jldracula>=0.2.0",
     "jupyterlab>=4.4.3",
-    "jupyterlab-lsp>=5.1.0",
+    "jupyterlab-lsp>=5.1.1",
     "jupyterlab-materialdarker>=0.7.1",
-    "python-lsp-server[all]>=1.12.2",
+    "matplotlib>=3.10.3",
+    "notebook>=7.4.3",
+    "python-lsp-server>=1.12.2",
     "sympy>=1.14.0",
     "theme-darcula>=4.0.0",
 ]
