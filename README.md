@@ -1,2 +1,2 @@
-- [ ] algebra
+- [x] algebra
 - [ ] Software Design and Architecture
