@@ -1,1 +1,1 @@
-Model Driven Design (Motivation)
+Class Invariants (Class Invariants)
