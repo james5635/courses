@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Clean Code Principles
 
 Clean code is code that is easy to read, understand, and maintain. It follows a set of principles that are designed to make the code more readable, testable, and less error-prone. Some of the key principles of clean code include:
