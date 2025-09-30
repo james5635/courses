@@ -12,6 +12,5 @@ The ``documentation`` from `https://roadmap.sh/postgresql-dba <https://roadmap.s
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   
-   introduction
 
+   introduction
