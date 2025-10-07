@@ -1,4 +1,5 @@
-- [x] algebra
+- [x] Algebra
 - [ ] Software Design and Architecture
-- [ ] Precalculus
-- [ ] latex
+- [x] Precalculus
+- [ ] Latex
+- [ ] College Calculus – Full Course with Python Code
