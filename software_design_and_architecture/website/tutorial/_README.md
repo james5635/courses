@@ -1,1 +1,1 @@
-Get Started with SOLID
+Hollywood Principle

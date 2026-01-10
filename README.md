@@ -3,3 +3,4 @@
 - [x] Precalculus
 - [ ] Latex
 - [ ] College Calculus – Full Course with Python Code
+- [ ] Machine Learning with Python
