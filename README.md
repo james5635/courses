@@ -1,6 +1,1 @@
-- [x] Algebra
-- [ ] Software Design and Architecture
-- [x] Precalculus
-- [ ] Latex
-- [ ] College Calculus – Full Course with Python Code
-- [ ] Machine Learning with Python
+list of courses
