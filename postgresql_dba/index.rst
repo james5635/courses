@@ -14,3 +14,5 @@ The ``documentation`` from `https://roadmap.sh/postgresql-dba <https://roadmap.s
    :caption: Contents:
 
    introduction
+   rdbms_concepts
+   high_level_database_concepts
